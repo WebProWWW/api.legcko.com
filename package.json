@@ -1,0 +1,32 @@
+{
+  "name": "api.legcko.com",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "webpack --watch --mode=development",
+    "build": "webpack --mode=production"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "@babel/core": "~7.16.0",
+    "@babel/preset-env": "~7.16.0",
+    "coffee-loader": "~3.0.0",
+    "coffeescript": "~2.6.1",
+    "css-loader": "~6.5.1",
+    "mini-css-extract-plugin": "~2.4.4",
+    "postcss": "~8.3.11",
+    "postcss-loader": "~6.2.0",
+    "postcss-preset-env": "~7.0.0",
+    "stylus": "~0.55.0",
+    "stylus-loader": "~6.2.0",
+    "vue-loader": "~15.9.8",
+    "vue-template-compiler": "2.6.14",
+    "webpack": "~5.64.0",
+    "webpack-cli": "~4.9.1",
+    "webpack-dev-server": "~4.5.0",
+    "webpack-livereload-plugin": "~3.0.2",
+    "webpack-manifest-plugin": "~4.0.2",
+    "webpack-watch-files-plugin": "~1.2.0"
+  }
+}

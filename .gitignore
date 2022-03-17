@@ -1,6 +1,6 @@
-assets/*
-!assets/.gitignore
-protected/runtime/*
-!protected/runtime/.gitignore
-protected/data/*.db
-themes/classic/views/
+app/config/imap.php
+app/controllers/TestController.php
+node_modules
+vendor
+.DS_Store
+.idea
