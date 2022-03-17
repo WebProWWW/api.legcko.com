@@ -1,5 +1,6 @@
 app/config/imap.php
 app/controllers/TestController.php
+public_html/index.php
 node_modules
 vendor
 .DS_Store
